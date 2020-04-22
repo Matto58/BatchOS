@@ -1,0 +1,1 @@
+X=MsgBox("Vypnutí bylo úspìšné.",0+64,"BatchOS verze 1.0")
