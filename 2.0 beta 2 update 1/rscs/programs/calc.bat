@@ -7,7 +7,6 @@ title Calculator for BatchOS 2.0
 echo Loading calc.bat...
 timeout 3 >nul
 echo Loaded!
-set /p username=Your username:
 
 :menu
 echo ---------------------------------------------------
@@ -32,16 +31,20 @@ if /i %letter% EQU D goto :divide
 
 :add
 cls
+"%CD%\calc\stmtbg.vbs"
 "%CD%\calc\oprtns\add.bat"
 
 :subtrct
 cls
+"%CD%\calc\stmtbg.vbs"
 "%CD%\calc\oprtns\subtrct.bat"
 
 :multi
 cls
+"%CD%\calc\stmtbg.vbs"
 "%CD%\calc\oprtns\multi.bat"
 
 :divide
 cls
+"%CD%\calc\stmtbg.vbs"
 "%CD%\calc\oprtns\dve.bat"
