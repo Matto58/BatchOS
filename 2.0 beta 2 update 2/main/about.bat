@@ -5,7 +5,7 @@ echo ------------------
 echo BatchOS 2.0 beta 2
 echo by Matto58
 echo Made in 1st April 2020
-echo Last update 10th May 2020
+echo Last update 12th May 2020
 echo ------------------
 echo Registered to:
 echo %username%

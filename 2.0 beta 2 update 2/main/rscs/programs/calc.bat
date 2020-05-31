@@ -24,27 +24,23 @@ echo C) Multiplication
 echo D) Division
 echo.
 set /p letter=Type in your letter: 
-if /i %letter% EQU A goto :add
-if /i %letter% EQU B goto :subtrct
-if /i %letter% EQU C goto :multi
-if /i %letter% EQU D goto :divide
+if /i %letter% EQU "A" goto :add
+if /i %letter% EQU "B" goto :subtrct
+if /i %letter% EQU "C" goto :multi
+if /i %letter% EQU "D" goto :divide
 
 :add
 cls
-"%CD%\calc\stmtbg.vbs"
 "%CD%\calc\oprtns\add.bat"
 
 :subtrct
 cls
-"%CD%\calc\stmtbg.vbs"
 "%CD%\calc\oprtns\subtrct.bat"
 
 :multi
 cls
-"%CD%\calc\stmtbg.vbs"
 "%CD%\calc\oprtns\multi.bat"
 
 :divide
 cls
-"%CD%\calc\stmtbg.vbs"
 "%CD%\calc\oprtns\dve.bat"
