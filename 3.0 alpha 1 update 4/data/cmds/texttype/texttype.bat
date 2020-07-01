@@ -9,5 +9,5 @@ echo Loaded!
 echo.
 set /p doc_name=Document name (without .txt): 
 echo.
-break>"%CD%\texttype\docs\%doc_name%.txt"
-start notepad "%CD%\texttype\docs\%doc_name%.txt"
+break.>"%CD%\docs\%doc_name%.txt"
+start notepad "%CD%\docs\%doc_name%.txt"
