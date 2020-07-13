@@ -1,8 +1,8 @@
 # BatchOS
 Versions:
 
-- 1.1 (old and useless)
-- 2.0 beta 2
+- 1.1 (out of support)
+- 2.0 beta 2 (out of support)
 - 3.0 alpha 1
 
 # Changelog
