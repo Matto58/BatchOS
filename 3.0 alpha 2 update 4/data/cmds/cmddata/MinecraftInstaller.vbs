@@ -1,0 +1,7 @@
+X=MsgBox("Hello Did you want download Minecraft for Free?",0+32,"BatchOS 3.0 system")
+X=MsgBox("Installing Minecraft...",0+64,"BatchOS 3.0 system")
+X=MsgBox("ok it must download",0+64,"BatchOS 3.0 system")
+X=MsgBox("Installing steev.exe ...",0+64,"BatchOS 3.0 system")
+X=MsgBox("Your friend Steev will help you to installing Minecraft.",0+64,"BatchOS 3.0 system")
+X=MsgBox("Hello my Miner. My name is Steev and today i wiil help you to install Minecraft.",0+64,"steev.exe")
+X=MsgBox("Go on this link https://tinyurl.com/yc4smljm ")
