@@ -36,6 +36,9 @@ You can also do this in version 3.0 but instead of "whatsnew" it's "changelog".
 - Added command "happy" to "help" command.
 - Added command "about". This command dates from 2.0 b1u1!
 
+## 3.0 pre-release 4:
+- Added command "videocollection"
+
 # Known bugs
 Bugs that the developer knows about.
 - In the Calculator, when dividing with an prime number, the result does not show decimals *(CANNOT FIX - BATCH DOESN'T SUPPORT DECIMALS)*
