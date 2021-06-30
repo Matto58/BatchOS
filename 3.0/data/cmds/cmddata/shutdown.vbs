@@ -1,0 +1,1 @@
+X=MsgBox("Shutdown was successful.",0+64,"BatchOS 3.0")
