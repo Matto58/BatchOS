@@ -39,6 +39,10 @@ You can also do this in version 3.0 but instead of "whatsnew" it's "changelog".
 ## 3.0 pre-release 4:
 - Added command "videocollection"
 
+## 3.0:
+- Added bit of stuff into "vidcoll"
+- Fixed "'vidcoll' is not recognized as an internal or external command, operable program or batch file." bug
+
 # Known bugs
 Bugs that the developer knows about.
 - In the Calculator, when dividing with an prime number, the result does not show decimals *(CANNOT FIX - BATCH DOESN'T SUPPORT DECIMALS)*
