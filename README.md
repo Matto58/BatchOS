@@ -10,6 +10,7 @@ BatchOS is a project paused 4 times, but continued again.
 - 3.0 pre-release 1
 - 3.0 pre-release 2
 - 3.0 pre-release 3
+- 3.0
 
 # Changelog
 When you download it, run "BatchOS.bat" and after you log in, type "whatsnew". (2.0 only)
