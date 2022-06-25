@@ -1,3 +1,10 @@
+# BatchOS is ending!
+It has been a fun ride, but since nobody cared about this thing that I worked for years on, I've decided to
+end this project. Someone can indeed make a fork and create their own features, I might praise them. If
+someone actually makes a fork, then I'll list each and every fork here. The best ones get a star from the
+man behind the original project (from me). Thanks for everything.
+- ⭐ [Matto58/BatchOS](https://github.com/Matto58/BatchOS)
+# The original pre-end README:
 # BatchOS
 BatchOS is a project paused 4 times, but continued again.
 ## Versions:
